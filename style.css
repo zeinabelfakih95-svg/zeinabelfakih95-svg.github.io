@@ -100,3 +100,9 @@ footer a {
 footer a:hover {
   text-decoration: underline;
 }
+
+/* Styling for the new product links */
+.product-link {
+  text-decoration: none; /* Removes the underline from the link text */
+  color: inherit;      /* Makes the text use the original color, not the default blue */
+}
